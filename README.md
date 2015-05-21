@@ -1,1 +1,5 @@
-# cmu-blog
+GitBook Example
+=======
+
+Welcome in your GitBook!
+
