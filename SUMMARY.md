@@ -32,15 +32,15 @@
     * [Same Hometown](chap/04_survive/01_hometown.md)
     * [Smiling Days](chap/04_survive/02_smiling.md)
     * [It's Beyond My Ability, But Take It!](chap/04_survive/03_beyond.md)
-* [Days Off]()
-    * Arriving Orlando
-    * Disney!
-    * Magic Kingdom & Meeting Chieh
-    * Miami Beach
-    * Miami Zoological & NBA Heat
-    * Philadelphia City
-    * Back to Life
-    * Let's Talk About American Taiwanese
+* [Days Off](chap/05_daysoff/00_daysoff.md)
+    * [Arriving Orlando](chap/05_daysoff/01_orlando.md)
+    * [Disney!](chap/05_daysoff/02_disney.md)
+    * [Magic Kingdom & Meeting Chieh](chap/05_daysoff/03_chieh.md)
+    * [Miami Beach](chap/05_daysoff/04_miamibeach.md)
+    * [Miami Zoological & NBA Heat](chap/05_daysoff/05_miamizoo.md)
+    * [Philadelphia City](chap/05_daysoff/06_phil.md)
+    * [Back to Life](chap/05_daysoff/07_backtolife.md)
+    * [Let's Talk About American Taiwanese](chap/05_daysoff/08_taiwanese.md)
 * [Taste of Life]()
     * We Shouldn’t be Perfect
     * Japanese Sakura in Washington
