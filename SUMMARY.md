@@ -20,18 +20,18 @@
     * [Power of Survival](chap/02_kickoff/04_survival.md)
     * [Hi, Beason](chap/02_kickoff/05_beason.md)
     * [First Time Downtown](chap/02_kickoff/06_downtown.md)
-* [I Struggled](chap/struggled/struggled.md)
-    * First Day in the Class
-    * Course Registrations
-    * Build18 Competition
-    * Under Stress
-    * Swirling Snow
-    * Dilemma
-    * My Heart is in the Work
-* [And, I survived](chap/survive/survive.md)
-    * Same Hometown
-    * Smiling Days
-    * It’s Beyond My Ability, But Take It!
+* [I Struggled](chap/03_struggled/00_struggled.md)
+    * [First Day in the Class](chap/03_struggled/01_firstclass.md)
+    * [Course Registrations](chap/03_struggled/02_registrations.md)
+    * [Build18 Competition](chap/03_struggled/03_build18.md)
+    * [Under Stress](chap/03_struggled/04_stress.md)
+    * [Swirling Snow](chap/03_struggled/05_snow.md)
+    * [Dilemma](chap/03_struggled/06_dilemma.md)
+    * [My Heart is in the Work](chap/03_struggled/07_heart.md)
+* [And, I Survived](chap/04_survive/00_survive.md)
+    * [Same Hometown](chap/04_survive/01_hometown.md)
+    * [Smiling Days](chap/04_survive/02_smiling.md)
+    * [It's Beyond My Ability, But Take It!](chap/04_survive/03_beyond.md)
 * [Days Off]()
     * Arriving Orlando
     * Disney!

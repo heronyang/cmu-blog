@@ -6,4 +6,4 @@ Yes, it’s not that hard but fun. Henry and I went to Target today, and we brou
 
 ---
 
-*My Apartment @ Pittsburgh. January 9, 2015*
+*My apartment @ Pittsburgh. January 9, 2015*

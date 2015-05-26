@@ -8,4 +8,4 @@ Finally, we were able to cook steak and vegetables at our house, which is extrem
 
 ---
 
-*Narita Airport @ Tokyo, Japan. January 9, 2015*
+*My apartment @ Pittsburgh. January 9, 2015*
