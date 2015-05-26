@@ -1,7 +1,7 @@
 Heron at CMU
 =======
 
-![Heron at CMU](../images/cover.jpg)
+![Heron at CMU](http://heronyang.gitbooks.io/cmu/content/images/cover.jpg)
 
 Hi,
 
