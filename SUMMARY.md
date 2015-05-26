@@ -1,27 +1,26 @@
 # Summary
 
-* [Introduction](README.md)
-    * About Me
-    * Preface
-    * Acknowledgment
-* [Ready?](prepare.md)
-    * Let’s Get Started!
-    * You Have Been Accepted
-    * VISA Application
-    * Leaving from HTC
-    * “OK, you’re all set!” - Visa Appointment
-    * Immunzation
-    * Moving Out
-    * End of Farewells
-* [Kick Off]()
+* [Intro](README.md)
+    * [About Me](chap/00_intro/about.md)
+    * [Preface](chap/00_intro/preface.md)
+    * [Acknowledgment](chap/00_intro/acknowledgment.md)
+* [Ready?](chap/01_ready/00_ready.md)
+    * [Let’s Get Started!](chap/01_ready/01_get_started.md)
+    * [You Have Been Accepted](chap/01_ready/02_accepted.md)
+    * [VISA Application](chap/01_ready/03_visa.md)
+    * [Leaving from HTC](chap/01_ready/04_htc.md)
+    * ["OK, you’re all set!"](chap/01_ready/05_allset.md)
+    * [Immunization](chap/01_ready/06_immunization.md)
+    * [Moving Out](chap/01_ready/07_moveout.md)
+    * [End of Farewells](chap/01_ready/08_endoffarewells.md)
+* [Kick Off](chap/kickoff/kickoff.md)
     * Tokyo - Simple and Clean
     * Connecting Flights
-    * First Day Arrival: Nothing but Snow
+    * Nothing but Snow
     * Power of Survival
     * Hi, Beason
     * First Time Downtown
-
-* [I Struggled]()
+* [I Struggled](chap/struggled/struggled.md)
     * First Day in the Class
     * Course Registrations
     * Build18 Competition
@@ -29,23 +28,23 @@
     * Swirling Snow
     * Dilemma
     * My Heart is in the Work
-* [And, I survived]()
+* [And, I survived](chap/survive/survive.md)
     * Same Hometown
     * Smiling Days
     * It’s Beyond My Ability, But Take It!
-* [Out]()
-    * Spring Break Day 01 - Arriving Orlando
-    * Spring Break Day 02 - Disney!
-    * Spring Break Day 03 - Magic Kingdom &amp; Meeting Chieh
-    * Spring Break Day 04 - Miami Beach
-    * Spring Break Day 05 - Miami Zoological &amp; NBA Heat
-    * Spring Break Day 06 - Philadelphia City
-    * Spring Break Day 07-09 - Back to Life
-    * Let’s Talk About American Taiwanese - Visiting UIUC
+* [Days Off]()
+    * Arriving Orlando
+    * Disney!
+    * Magic Kingdom & Meeting Chieh
+    * Miami Beach
+    * Miami Zoological & NBA Heat
+    * Philadelphia City
+    * Back to Life
+    * Let's Talk About American Taiwanese
 * [Taste of Life]()
     * We Shouldn’t be Perfect
     * Japanese Sakura in Washington
-    * Meeting American Pop Art at Andy Warhol Museum
+    * Meeting American Pop Art
     * Oh, We Got Museums!
 * [Move On]()
     * Last Few Miles
@@ -58,4 +57,4 @@
     * I Believe I Can Fly
     * New Jersey, New York City’s Neighbor
 * [Chicago - ]()
-* [End? No]()
+* [End? No](chap/end/end.md)
