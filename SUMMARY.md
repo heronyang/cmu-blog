@@ -13,13 +13,13 @@
     * [Immunization](chap/01_ready/06_immunization.md)
     * [Moving Out](chap/01_ready/07_moveout.md)
     * [End of Farewells](chap/01_ready/08_endoffarewells.md)
-* [Kick Off](chap/kickoff/kickoff.md)
-    * Tokyo - Simple and Clean
-    * Connecting Flights
-    * Nothing but Snow
-    * Power of Survival
-    * Hi, Beason
-    * First Time Downtown
+* [Kick Off](chap/02_kickoff/00_kickoff.md)
+    * [Tokyo - Simple and Clean](chap/02_kickoff/01_tokyo.md)
+    * [Connecting Flights](chap/02_kickoff/02_flights.md)
+    * [Nothing but Snow](chap/02_kickoff/03_butsnow.md)
+    * [Power of Survival](chap/02_kickoff/04_survival.md)
+    * [Hi, Beason](chap/02_kickoff/05_beason.md)
+    * [First Time Downtown](chap/02_kickoff/06_downtown.md)
 * [I Struggled](chap/struggled/struggled.md)
     * First Day in the Class
     * Course Registrations
