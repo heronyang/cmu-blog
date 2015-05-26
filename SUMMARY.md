@@ -49,12 +49,14 @@
 * [Move On](chap/07_moveon/00_moveon.md)
     * [Last Few Miles](chap/07_moveon/01_last.md)
     * [Ya, Buckstar Rocks!](chap/07_moveon/02_buckstar.md)
-* [New York - Lovely Days]()
-    * Yo, New York City!
-    * Meet Some Arts
-    * Fashions in Ancient Asian
-    * More in New York City
-    * I Believe I Can Fly
-    * New Jersey, New York City’s Neighbor
+* [New York - Lovely Days](chap/08_nyc/00_nyc.md)
+    * [Yo, New York City!](chap/08_nyc/01_yonyc.md)
+    * [Meet Some Arts](chap/08_nyc/02_meetarts.md)
+    * [Fashions in Ancient Asian](chap/08_nyc/03_fasion.md)
+    * [More in New York City](chap/08_nyc/04_morenyc.md)
+    * [I Believe I Can Fly](chap/08_nyc/05_fly.md)
+    * [New Jersey, New York City’s Neighbor](chap/08_nyc/06_newjersey.md)
 * [Chicago - ]()
+* [Seattle - ]()
+* [Boston - ]()
 * [End? No](chap/end/end.md)
