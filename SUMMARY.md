@@ -41,11 +41,11 @@
     * [Philadelphia City](chap/05_daysoff/06_phil.md)
     * [Back to Life](chap/05_daysoff/07_backtolife.md)
     * [Let's Talk About American Taiwanese](chap/05_daysoff/08_taiwanese.md)
-* [Taste of Life]()
-    * We Shouldn’t be Perfect
-    * Japanese Sakura in Washington
-    * Meeting American Pop Art
-    * Oh, We Got Museums!
+* [Taste of Life](chap/06_life/00_life.md)
+    * [We Shouldn’t be Perfect](chap/06_life/01_noperfect.md)
+    * [Japanese Sakura in Washington](chap/06_life/02_washington.md)
+    * [Meeting American Pop Art](chap/06_life/03_popart.md)
+    * [Oh, We Got Museums!](chap/06_life/04_museums.md)
 * [Move On]()
     * Last Few Miles
     * Ya, Buckstar Rocks!
