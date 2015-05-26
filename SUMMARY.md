@@ -46,9 +46,9 @@
     * [Japanese Sakura in Washington](chap/06_life/02_washington.md)
     * [Meeting American Pop Art](chap/06_life/03_popart.md)
     * [Oh, We Got Museums!](chap/06_life/04_museums.md)
-* [Move On]()
-    * Last Few Miles
-    * Ya, Buckstar Rocks!
+* [Move On](chap/07_moveon/00_moveon.md)
+    * [Last Few Miles](chap/07_moveon/01_last.md)
+    * [Ya, Buckstar Rocks!](chap/07_moveon/02_buckstar.md)
 * [New York - Lovely Days]()
     * Yo, New York City!
     * Meet Some Arts
