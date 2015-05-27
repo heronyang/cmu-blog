@@ -3,7 +3,7 @@
 * [Intro](README.md)
     * [About Me](chap/00_intro/about.md)
     * [Preface](chap/00_intro/preface.md)
-    * [Acknowledgment](chap/00_intro/acknowledgment.md)
+    * [Q & A](chap/00_intro/qa.md)
 * [Ready?](chap/01_ready/00_ready.md)
     * [Let’s Get Started!](chap/01_ready/01_get_started.md)
     * [You Have Been Accepted](chap/01_ready/02_accepted.md)
