@@ -1,3 +1,8 @@
 {
-    "version": "2.0.x"
+    "gitbook": ">=2.0.0",
+    "title": "Heron at CMU",
+    "description": "This is a book containing stories of my days studying in Carnegie Mellon University and traveling different cities in United States for past half a year.",
+    "styles": {
+        "website": "styles/website.css"
+    }
 }
