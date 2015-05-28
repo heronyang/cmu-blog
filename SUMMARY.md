@@ -1,5 +1,7 @@
 # Summary
 
+This is the summary of my book.
+
 * [Intro](README.md)
     * [About Me](chap/00_intro/about.md)
     * [Preface](chap/00_intro/preface.md)
