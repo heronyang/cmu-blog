@@ -3,15 +3,12 @@ Heron at CMU
 
 ![Heron at CMU](http://heronyang.gitbooks.io/cmu/content/images/cover.jpg)
 
-> We are all writing our own stories;
->
-> but, make sure you are the one who's holding the pen.
->
-> Pick the toughest route which follows your heart;
->
-> and, survive.
-
----
+```
+We are all writing our own stories;
+but, make sure you are the one who's holding the pen.
+Pick the toughest route which follows your heart;
+and, survive.
+```
 
 Hi,
 
