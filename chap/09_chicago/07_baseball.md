@@ -14,4 +14,4 @@ When I left the field, bars started to play loud music, and people were yelling 
 
 ---
 
-*Wrigley Field @ Chicago. May 28, 2015*
+*Wrigley Field @ Chicago. May 27, 2015*
