@@ -2,8 +2,10 @@
 
 ![](../../images/skydive.jpg)
 
-"Do you want to go skydiving with me?" Olive asked me.
-"Yes! Yes! I want to go!"
+> "Do you want to go skydiving with me?" Olive asked me.
+>
+> "Yes! Yes! I want to go!"
+
 Thanks Olive. She checked out several Skydive companies in Oregon, and found out a nice one nearby. I believe that everyone should have his or her own life todo list. For me, go skydiving is the top one on my list following by taking the hot air balloon. I am glad that, finally, I made it here in Portland.
 
 After signing the responsibility waiver form, taking a short lesson, a small airplane took us into the sky and we jumped from 10,000 feet above the ground. The whole process can be composited by three parts: freefall, flying with the parachute and landing.
