@@ -1,5 +1,7 @@
 # Safe Flight
 
+*Day 24*
+
 ![](../../images/safeflight.jpg)
 
 "Safe flight," this is what people usually say to somebody who is about to take a flight.

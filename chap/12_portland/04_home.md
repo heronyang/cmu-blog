@@ -1,5 +1,7 @@
 # Home is Everywhere
 
+*Day 27*
+
 ![](../../images/home.jpg)
 
 "Feel free to hang out downstairs" my Airbnb host told me when I arrived.

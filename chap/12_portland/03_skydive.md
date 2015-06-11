@@ -1,5 +1,7 @@
 # Skydive
 
+*Day 26*
+
 ![](../../images/skydive.jpg)
 
 > "Do you want to go skydiving with me?" Olive asked me.

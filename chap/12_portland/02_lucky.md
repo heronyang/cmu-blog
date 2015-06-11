@@ -1,5 +1,7 @@
 # For the Lucky and the Strong
 
+*Day 25*
+
 ![](../../images/lucky.jpg)
 
 > When the night has been too lonely
